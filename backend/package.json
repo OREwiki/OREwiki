@@ -1,0 +1,22 @@
+{
+  "name": "orewiki-backend",
+  "version": "1.0.0",
+  "description": "The backend for the OREwiki website",
+  "main": "main.js",
+  "scripts": {
+    "test": "runtest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OREwiki/OREwiki.git"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "author": "OREwiki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OREwiki/OREwiki/issues"
+  },
+  "homepage": "https://github.com/OREwiki/OREwiki#readme"
+}
