@@ -4,7 +4,7 @@
   "description": "The backend for the OREwiki website",
   "main": "main.js",
   "scripts": {
-    "test": "runtest"
+    "start": "node main.js"
   },
   "repository": {
     "type": "git",
